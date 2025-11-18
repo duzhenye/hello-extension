@@ -1,0 +1,15 @@
+{
+    "name": "duzhenye/hello-extension",
+    "type": "pagekit-extension",
+    "version": "1.0.0",
+    "title": "Hello Extension",
+    "description": "A simple hello extension for Pagekit",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your.email@example.com",
+            "homepage": "http://your-website.com"
+        }
+    ]
+}
